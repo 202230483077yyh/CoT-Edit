@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results and outputs (optional - uncomment if you want to ignore)
+# data/results/
+# *.jsonl
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model cache
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+
+trash/
